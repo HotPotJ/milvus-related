@@ -19,3 +19,13 @@
 
 # Go workspace file
 go.work
+log/*
+bin
+control
+.vscode
+.idea
+go.sum
+*_test.go
+.DS_Store
+.history
+env
